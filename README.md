@@ -3,4 +3,4 @@
 
 Click on below link
 
-https://afzalportfolio.netlify.app/home
+https://afzalportfolio.netlify.app
